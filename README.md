@@ -1,5 +1,6 @@
 # Barrett_BURT
 Haptic programs for the Barrett Burt dual-arm rehabilitation robot (Unity/C#)
+http://support.barrett.com/wiki/Therapy
 
 ## Haptic World
 The haptic world is a modified version of the original haptic demo program by Barrett (https://github.com/BarrettTechnology/barrett-burt-haptics-demo). Changes include:
